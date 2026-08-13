@@ -10,7 +10,7 @@
 <a href="https://www.msoe.edu/">Milwaukee School of Engineering (MSOE)</a>
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/milwaukee-school-of-engineering-logo-msoe-freelogovectors.net_.png" alt="Milwaukee School of Engineering Logo (MSOE)" width="20" align="center" style="vertical-align:middle; margin-left:16px;">
  
-💼 Masters Student @ MSOE | prev intern @ City of Milwaukee, Africell Group, The Spanish Journal 
+💼 Data & AI Engineer @ Xorbix | Masters Student @ MSOE
 
 **[boyealhagie.com](https://boyealhagie.com/)** — portfolio, projects, and technical writeups
 
